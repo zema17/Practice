@@ -1,0 +1,11 @@
+One of the key projects I worked on was a fingerprint-based attendance tracking system. 
+
+In this project, I developed both the hardware and software components. 
+
+I integrated an ESP8266 microcontroller with a fingerprint sensor to capture and verify fingerprints, then sent the data to a MySQL database via PHP scripts. On the software side, 
+
+I built an Android application using Java, which allowed users to register and verify fingerprints in real time. 
+
+I also connected the system to Firebase Realtime Database to display attendance records dynamically. 
+
+My role involved system design, coding, and ensuring seamless communication between hardware and software components.
